@@ -57,7 +57,7 @@ class CalculatorTest {
 		// Arrange
 		int a = 2;
 		int b = 3;
-		// Calculator calculator = new Calculator(); => plu besoin il y a le BeforeEach
+		// Calculator calculator = new Calculator(); => plus besoin il y a le BeforeEach
 		// Act
 		int somme = calculatorUnderTest.add(a, b);
 		// Assert avec Junit
